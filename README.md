@@ -1,4 +1,4 @@
-<img src="./meet_harshv.jpg" width="80%" height="80%">  
+<img src="./meet_harshv.jpg" width="40%" height="40%">  
 <br>  
 
 ## :technologist: Hi there!
