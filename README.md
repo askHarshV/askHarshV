@@ -8,6 +8,5 @@ I am passionate about data science and machine learning. My repositories contain
 ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
 ## :Latest posts  
 <!-- BLOG-POST-LIST:START -->
-- [text](link)
-- [text1](link1)
+- [schoolofbots.in](https://schoolofbots.in/)
 <!-- BLOG-POST-LIST:END -->
