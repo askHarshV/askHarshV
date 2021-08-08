@@ -1,7 +1,7 @@
 <img src="./meet_harshv.jpg" width="40%" height="40%">  
 <br>  
 
-## :technologist: Hi there!
+## 👨‍🔬 💻 👨‍🍳 :Hi there!
 I am passionate about data science and machine learning. My repositories contain programming, maths or statistics tutorials and coding tips and tricks. I hope you may find them useful.  
 
 ## :Stack
